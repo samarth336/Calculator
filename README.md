@@ -1,2 +1,2 @@
-# Calculator Webapp using HTML, CSS, Javascript
+# Calculator using HTML, CSS, Javascript
 This is my first webapp
